@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Player.prefab
+    - Assets/Prefabs/Zombie.prefab
+    - Assets/Scenes/Controls.unity
+    - Assets/Scenes/Game.unity
+    - Assets/Scenes/GameOver.unity
+    - Assets/Scenes/Menu.unity
+    - Assets/Scripts/Camera/CameraLook.cs
+    - Assets/Scripts/ControlVariables.cs
+    - Assets/Scripts/ControlVariables.cs.meta
+    - Assets/Scripts/Gun/GunShoot.cs
+    - Assets/Scripts/Managers/EnemyManager.cs
+    - Assets/Scripts/Menu/MenuButtons.cs
+    - Assets/Scripts/Misc/CursorLock.cs
+    - Assets/Scripts/Player/PlayerScore.cs
+    - Assets/Scripts/Player/PlayerScore.cs.meta
+    - Assets/Scripts/Player/PlayerUi.cs
+    - Assets/Sounds/AmbientForest.ogg
+    - Assets/b5productions.png
+    - Assets/b5productions.png.meta
+    - Assets/logo.png
+    - Assets/logo.png.meta
+    - ProjectSettings/ProjectSettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
